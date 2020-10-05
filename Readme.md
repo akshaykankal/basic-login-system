@@ -1,1 +1,1 @@
-Basic login system in mERN Stack with backend
+Basic login system with backend in MERN Stack
