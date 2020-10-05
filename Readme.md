@@ -1,2 +1,1 @@
-Nice login system in MERN Stack with easy code.
-Good Job, Shreyash
+Basic login system in mERN Stack with backend
